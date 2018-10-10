@@ -1,0 +1,9 @@
+C:\Users\valdemir.pedro\Desktop\Exercicios Programacao e Algoritmos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\bin\Debug\Ex5L1DoWhilePesquisaHabitantes.exe.config
+C:\Users\valdemir.pedro\Desktop\Exercicios Programacao e Algoritmos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\bin\Debug\Ex5L1DoWhilePesquisaHabitantes.exe
+C:\Users\valdemir.pedro\Desktop\Exercicios Programacao e Algoritmos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\bin\Debug\Ex5L1DoWhilePesquisaHabitantes.pdb
+C:\Users\valdemir.pedro\Desktop\Exercicios Programacao e Algoritmos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\obj\Debug\Ex5L1DoWhilePesquisaHabitantes.csprojResolveAssemblyReference.cache
+C:\Users\valdemir.pedro\Desktop\Exercicios Programacao e Algoritmos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\obj\Debug\Ex5L1DoWhilePesquisaHabitantes.exe
+C:\Users\valdemir.pedro\Desktop\Exercicios Programacao e Algoritmos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\obj\Debug\Ex5L1DoWhilePesquisaHabitantes.pdb
+C:\Users\etec\Desktop\Exercicios resolvidos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\bin\Debug\Ex5L1DoWhilePesquisaHabitantes.exe.config
+C:\Users\etec\Desktop\Exercicios resolvidos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\obj\Debug\Ex5L1DoWhilePesquisaHabitantes.exe
+C:\Users\etec\Desktop\Exercicios resolvidos\Ex5L1DoWhilePesquisaHabitantes\Ex5L1DoWhilePesquisaHabitantes\obj\Debug\Ex5L1DoWhilePesquisaHabitantes.pdb
